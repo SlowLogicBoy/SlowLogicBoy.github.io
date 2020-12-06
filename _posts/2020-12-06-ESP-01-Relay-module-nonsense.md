@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "ESP-01 Wifi Relay module"
-by: SlowLogicBoy
+author: SlowLogicBoy
+categories: ESPHome Electronics
+tags: ESP8266-01 ESP-01 ESPHome Electronics Relay
 ---
 
 If you don't have this, don't buy. It's a hassle to control, you occupy 2 pins when you can control simple relay with a single pin.
