@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "ESP-01 Relay Module Notes"
+title:  "ESP-01 Wifi Relay module"
+by: SlowLogicBoy
 ---
-
-# ESP-01 Wifi Relay module
 
 If you don't have this, don't buy. It's a hassle to control, you occupy 2 pins when you can control simple relay with a single pin.
 It's worth buying if it contais more then 2 relays, however good luck discovering what commands open and close which relay...
