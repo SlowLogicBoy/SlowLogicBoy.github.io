@@ -10,6 +10,7 @@ permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
 timezone: Europe/Vilnius
+breadcrumbs: true
 include:
   - _pages
 
@@ -54,13 +55,14 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
