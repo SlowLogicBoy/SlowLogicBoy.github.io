@@ -8,7 +8,7 @@ title:  "ESP-01 Relay Module Notes"
 If you don't have this, don't buy. It's a hassle to control, you occupy 2 pins when you can control simple relay with a single pin.
 It's worth buying if it contais more then 2 relays, however good luck discovering what commands open and close which relay...
 
-![ESP8266-01 Wifi Relay Module Image](assets/ESP8266-01_Wifi_Relay_Module.jpg)
+![ESP8266-01 Wifi Relay Module Image](/assets/ESP8266-01_Wifi_Relay_Module.jpg)
 
 I don't remember where I got these uart codes to control this relay, but you can find these on the internets.
 
