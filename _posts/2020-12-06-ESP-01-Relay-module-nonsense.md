@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "ESP-01 Wifi Relay module"
 categories:
   - Electronics
+  - ESPHome
 tags:
   - ESP8266-01
   - ESP-01
