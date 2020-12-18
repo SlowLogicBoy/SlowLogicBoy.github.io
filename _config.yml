@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-data
 
 author:
   name   : "Simonas G"
