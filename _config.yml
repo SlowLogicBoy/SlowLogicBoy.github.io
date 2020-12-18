@@ -30,9 +30,9 @@ plugins:
   - jekyll-data
 
 author:
-  name   : "Simonas G"
+  name: "Simonas G"
   location: "Kaunas, Lithuania
-  avatar : "https://avatars1.githubusercontent.com/u/3121637"
+  avatar: "https://avatars1.githubusercontent.com/u/3121637"
   #bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
