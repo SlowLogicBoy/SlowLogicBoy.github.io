@@ -1,16 +1,22 @@
 title: Simonas G
+subtitle: 
+title_separator: "|"
+url: "https://slowlogicboy.github.io/"
+name: Simonas G
 description: Me and my notes
 email:
 github_username: SlowLogicBoy
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
+search_full_content: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
-paginate: 5
+paginate: 20
 paginate_path: /page:num/
 timezone: Europe/Vilnius
 breadcrumbs: true
+
 include:
   - _pages
 
@@ -25,7 +31,8 @@ plugins:
 
 author:
   name   : "Simonas G"
-  #avatar : "/assets/images/bio-photo.jpg"
+  location: "Kaunas, Lithuania
+  avatar : "https://avatars1.githubusercontent.com/u/3121637"
   #bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
