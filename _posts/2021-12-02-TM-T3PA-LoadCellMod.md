@@ -53,3 +53,7 @@ You also need to connect GND to VS-, but since we connected REF with GND we can 
 ![AD623 Image](/assets/images/t3pa-loadcell/Soldered%20AD623.PNG)
 
 Last thing is to connect load cell to t3pa open Thrustmaster control panel and adjust potentiometer on op-amp until it reads load cell.
+
+Result:
+
+![Mounted Load Cell](/assets/images/t3pa-loadcell/LoadCellMount.PNG)
