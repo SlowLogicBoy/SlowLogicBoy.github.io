@@ -73,7 +73,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: false
+      comments: true
       share: true
       related: true
   # _pages
@@ -83,6 +83,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+repository: "SlowLogicBoy/SlowLogicBoy.github.io"
 
 category_archive:
   type: liquid
