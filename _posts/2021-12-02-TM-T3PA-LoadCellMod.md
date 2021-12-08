@@ -57,3 +57,8 @@ Last thing is to connect load cell to t3pa open Thrustmaster control panel and a
 Result:
 
 ![Mounted Load Cell](/assets/images/t3pa-loadcell/LoadCellMount.PNG)
+
+Update:
+Eliminated Deadzone and increased travel by adding some nuts:
+
+![Mounted Load Cell Update](/assets/images/t3pa-loadcell/Result_Eliminated_DeadZone.jpg)
