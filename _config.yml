@@ -16,6 +16,7 @@ paginate: 20
 paginate_path: /page:num/
 timezone: Europe/Vilnius
 breadcrumbs: true
+repository: "SlowLogicBoy/SlowLogicBoy.github.io"
 
 include:
   - _pages
@@ -84,7 +85,11 @@ defaults:
       layout: single
       author_profile: true
 
-repository: "SlowLogicBoy/SlowLogicBoy.github.io"
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue_term: "pathname"
 
 category_archive:
   type: liquid
