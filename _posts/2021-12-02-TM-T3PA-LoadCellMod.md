@@ -20,8 +20,9 @@ I will mostly cover how to connect AD623 op-amp instead of Load Cell amplifier, 
 
 Parts I used:
 
-- [20kg Load Cell (only)](https://www.aliexpress.com/item/1005002395846445.html?spm=a2g0s.9042311.0.0.1c804c4ddFzlKj)
-- [AD623 op-amp](https://www.aliexpress.com/item/32834035813.html?spm=a2g0s.9042311.0.0.1c804c4ddFzlKj)
+- [20kg Load Cell (only)](https://www.aliexpress.com/item/1005002395846445.html) 
+- ~~[AD623 op-amp](https://www.aliexpress.com/item/32834035813.html)~~ Out of Stock
+- [AD603 op-amp](https://www.aliexpress.com/item/32817544729.html)
 - Some wires.
 - 3pin male connector.
 
