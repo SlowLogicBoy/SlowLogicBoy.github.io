@@ -22,7 +22,7 @@ Parts I used:
 
 - [20kg Load Cell (only)](https://www.aliexpress.com/item/1005002395846445.html) 
 - ~~[AD623 op-amp](https://www.aliexpress.com/item/32834035813.html)~~ Out of Stock
-- [AD603 op-amp](https://www.aliexpress.com/item/32817544729.html)
+- [AD623 op-amp](https://www.aliexpress.com/item/32817544729.html)
 - Some wires.
 - 3pin male connector.
 
