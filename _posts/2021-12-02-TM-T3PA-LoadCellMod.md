@@ -63,3 +63,8 @@ Update:
 Eliminated Deadzone and increased travel by adding some nuts:
 
 ![Mounted Load Cell Update](/assets/images/t3pa-loadcell/Result_Eliminated_DeadZone.jpg)
+
+Update:
+Since previous op-amp out of stock added link to a new one thanks to fellow racers.
+This pinout should work with this other op-amp (didn't test myself)
+[Different op-amp pinout](/assets/images/t3pa-loadcell/New%20AD623%20Pinout.png)
