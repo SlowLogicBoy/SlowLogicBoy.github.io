@@ -55,16 +55,19 @@ You also need to connect GND to VS-, but since we connected REF with GND we can 
 
 Last thing is to connect load cell to t3pa open Thrustmaster control panel and adjust potentiometer on op-amp until it reads load cell correctly from 0 to 100%.
 
-Result:
+**Result:**
 
 ![Mounted Load Cell](/assets/images/t3pa-loadcell/LoadCellMount.PNG)
 
-Update:
+**Update:**
+
 Eliminated Deadzone and increased travel by adding some nuts:
 
 ![Mounted Load Cell Update](/assets/images/t3pa-loadcell/Result_Eliminated_DeadZone.jpg)
 
-Update:
-Since previous op-amp out of stock added link to a new one thanks to fellow racers.
+**Update:**
+
+Since previous op-amp out of stock added link to a new one thanks to fellow sim racers.
 This pinout should work with this other op-amp (didn't test myself)
-[Different op-amp pinout](/assets/images/t3pa-loadcell/New%20AD623%20Pinout.png)
+
+![Different op-amp pinout](/assets/images/t3pa-loadcell/New%20AD623%20Pinout.png)
