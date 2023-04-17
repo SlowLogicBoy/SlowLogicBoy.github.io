@@ -91,6 +91,8 @@ Configuration_adv.h:
 
 ### Filament Runout (TODO)
 
+### Linear Advance (TODO)
+
 ### Input Shaping (TODO)
 
 ## Calibration: (TODO)
