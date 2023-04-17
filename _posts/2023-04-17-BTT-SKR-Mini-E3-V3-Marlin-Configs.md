@@ -70,6 +70,9 @@ Configuration_adv.h:
 
 ### Enable BLTouch (TODO)
 
+#define AUTO_BED_LEVELING_BILINEAR
+#define PREHEAT_BEFORE_LEVELING
+
 ### Faster BLTouch [From Crosslink](https://www.youtube.com/watch?v=PFuz8915GCs)
 
 Configuration.h
