@@ -10,7 +10,7 @@ tags:
   - Electronics
 ---
 
-# WIP
+## Firmware
 
 Download base configs from [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations/tree/bugfix-2.1.x/config/examples/Creality/Ender-3%20Pro/BigTreeTech%20SKR%20Mini%20E3%203.0)
 
@@ -68,7 +68,7 @@ Configuration_adv.h:
 #define RX_BUFFER_SIZE 2048
 ```
 
-SuperSlicer:
+### Enable BLTouch (TODO)
 
 ### Faster BLTouch [From Crosslink](https://www.youtube.com/watch?v=PFuz8915GCs)
 
@@ -89,5 +89,17 @@ Configuration_adv.h:
 
 ```
 
+### Filament Runout (TODO)
 
+### Input Shaping (TODO)
 
+## Calibration: (TODO)
+
+- PID
+- Probe Z Offset
+- Feedrate
+
+## SuperSlicer: (TODO)
+
+- Arachne
+- 0.6 Nozzle
