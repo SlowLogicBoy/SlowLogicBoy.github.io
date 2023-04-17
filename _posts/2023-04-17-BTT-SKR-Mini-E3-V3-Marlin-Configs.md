@@ -95,6 +95,16 @@ Configuration_adv.h:
 
 ### Input Shaping (TODO)
 
+### Misc
+
+Configuration_adv.h:
+
+```c
+//#define SHOW_CUSTOM_BOOTSCREEN //Disable
+//#define CUSTOM_STATUS_SCREEN_IMAGE  //Disable
+```
+
+
 ## Calibration: (TODO)
 
 - PID
