@@ -92,14 +92,6 @@ Configuration_adv.h:
 
 ```
 
-### Filament Runout (TODO)
-
-### Linear Advance (TODO)
-
-### Input Shaping (TODO)
-
-### Misc
-
 Configuration_adv.h:
 
 ```c
@@ -108,13 +100,40 @@ Configuration_adv.h:
 ```
 
 
-## Calibration: (TODO)
+## OrcaSlicer: (TODO)
+
+- Arachne
+- 0.6 Nozzle
+- End GCode for retracting fillament out of the nozzle
+- Layer height multiples of 0.04mm
+- Max layer height Nozzle*0.8 (0.6mm Nozzle = 0.48mm)
+## Calibration
+
+[5 things to check & tune to 3D print faster](https://www.youtube.com/watch?v=CAwYTkVKO3I)
+[Calibration](https://teachingtechyt.github.io/calibration.html)
 
 - PID
 - Probe Z Offset
 - Feedrate
 
-## SuperSlicer: (TODO)
+1. Figure out Max Flow Rate [Speed & Max Flow Tuning](https://teachingtechyt.github.io/calibration.html#speed)
+    1. Set Max Volumetric Speed in Slicer
+1. Speed & Acc
+2. Input Shaping
 
-- Arachne
-- 0.6 Nozzle
+
+### Filament Runout (TODO)
+
+### Linear Advance (TODO)
+
+### Input Shaping (TODO)
+
+## Macros
+
+[Get more out of Marlin & Octoprint with these lesser known tips - Macros, auto-start, custom menus](https://www.youtube.com/watch?v=fpphvl5C2Cw)
+In Auto Load (`auto0.g`):
+1. Preheat
+1. Homing+BedLevel
+1. Setup Macros
+
+Octoprint Macros:
