@@ -112,6 +112,8 @@ Configuration_adv.h:
 [5 things to check & tune to 3D print faster](https://www.youtube.com/watch?v=CAwYTkVKO3I)
 [Calibration](https://teachingtechyt.github.io/calibration.html)
 
+[Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+
 - PID
 - Probe Z Offset
 - Feedrate
